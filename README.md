@@ -140,8 +140,9 @@ Researcher in Artificial Intelligence & Healthcare Systems
 
 ## 🔗 Links
 
-* GitHub Repository: (https://github.com/Aminata33/SierraLeone-Diabetes-Dataset)
-* Kaggle Dataset: ()
+## 🔗 Links
+- GitHub Repository: https://github.com/Aminata33/SierraLeone-Diabetes-Dataset
+- Kaggle Dataset: https://www.kaggle.com/datasets/bahamit/sierra-leone-diabetes-dataset
 
 ---
 
